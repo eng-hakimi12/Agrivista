@@ -1,0 +1,308 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+
+.header{
+   
+    background-color: white;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content:space-between;
+    padding: 50px;
+}
+
+.header ul{
+    display: flex;
+    gap: 40px;
+    font-size: 25px;
+    list-style: none;
+
+}
+.header button{
+    background-color: rgb(37, 37, 69);
+    color: white;
+    margin-left: 40px;
+    width: 140px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.back{
+    background-image: url("https://i.pinimg.com/736x/4b/9c/48/4b9c487f0eeeee32999b9031d251b9a0.jpg");
+    width: 100%;
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.back h1{
+    padding-top: 80px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 140px;
+}
+.divguud{
+    display: flex;
+    gap: 30px;
+    padding-left: 140px;
+    padding-top: 100px;
+}
+
+.qoral{
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.qor{
+    color: white;
+    padding-top: 10px;
+}
+.hero2{
+    display: flex;
+    width: 100%;
+   
+}
+.divtext{
+    width: 50%;
+    padding-top: 100px;
+    padding-left: 160px;
+}
+.divtext p{
+    width: 100%;
+    font-size: 12px;
+    padding-top: 10px;
+
+}
+.divtext button{
+    margin-top:40px ;
+    width: 150px;
+    height: 40px;
+    background-color: #F2C94C;
+    color: white;
+    border: none;
+}
+.image{
+    width: 50%;
+}
+.image img{
+    width: 450px;
+    height: 450px;
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.one{
+    display: flex;
+    gap: 8px;
+}
+.one i{
+    padding-top: 8px;
+}
+
+.All{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.All h2{
+    color: #696a6c;
+}
+.Allone{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    color: #696a6c;
+
+}
+.xiga{
+    width: 100%;
+    height: 600px;
+    background-color: #FCEDC6;
+    margin-top: 50px;
+}
+.tone{
+    display: flex;
+    gap:2px;
+}
+.tone i{
+    padding-top:6px;
+}
+.Allxiga {
+    display: flex;
+    gap: 20px;
+    margin-left: 200px;
+}
+.imgone img{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.xigatext {
+    margin-top: 40px;
+}
+.text1 h1{
+    font-size:40px;
+}
+
+.body{
+    background-image: url("https://i.pinimg.com/736x/35/2e/3b/352e3b2977c87dfa6842f972d2930a65.jpg");
+    width:1000px;
+    height: 250px;
+    margin-left: 250px;
+    margin-top: 100px;
+    text-align: center;padding-top: 100px;
+    color: rgb(255, 255, 255);
+}
+.control{
+    display: flex;
+    gap: 15px;margin-left: 200px;
+    margin-top: 80px;
+}
+.control1{
+    width: 200px;
+    height: 45px;
+    background-color: #F2C94C;
+    color: white;
+    padding-top: 15px;
+    border-radius: 15px;
+}
+
+button{
+    background-color: #F2C94C;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-top: 15px;
+    
+
+}
+
+.lastAll{
+    margin-top:100px;
+    margin-left: 60px;
+}
+
+.lasttwo{
+    display: flex;
+    gap: 100px;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.lastone{
+    width: 450px;
+    height: 100px;
+    background-color: #F2C94C;
+    text-align: center;
+    padding-top: 60px;
+    display: flex;
+    padding-left: 60px;
+    font-size: 30px;
+    border-radius: 8px;
+}
+.lastone p{
+    padding-left: 10px;
+}
+.lastone i{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.footer2 h3{
+    padding-left: 40px;
+}
+
+.footer3 h3{
+    padding-left: 40px;
+}
+
+.footer4 h3{
+    padding-left: 40px;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    width: 100%;
+    height: 300px;
+    background-color: #0B0706;
+    color: white;
+    padding-top: 40px;
+    font-size: 20px;
+    
+}
+.footer2 ul{
+    list-style: none;
+    font-size: 15px;
+
+    
+} 
+.footer3 ul{
+    list-style: none;
+    font-size: 15px;
+
+    
+} 
+.footer4 ul{
+    list-style: none;
+    font-size: 15px;
+    
+} 
+.footer5 input {
+    width: 200px;
+    height: 40px;
+}
+.footer5 button{
+    width: 100px;
+    height: 50px;
+}
+.tone p{
+    font-size: 15px;
+}
+
+
+
+@media (max-width : 768px) {
+
+    .header {
+        flex-direction: column;
+    }
+
+    .header ul {
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+        padding-top: 20px;
+    }
+
+    .back  h1 {
+        font-size: 30px;
+        padding-left: 50px;
+    }
+    .divguud {
+        padding-left: 10px;
+    }
+
+    .hero2 {
+        flex-direction: column;
+    }
+
+    .divtext {
+        padding-left: 60px;
+    }
+
+    .image img {
+        width: 300px;
+        height: 300px;
+        padding-left: 40px;
+    }
+}
+
